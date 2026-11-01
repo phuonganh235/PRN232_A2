@@ -1,0 +1,342 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PHUONG ANH\\PRN232_A2\\PRN232_A2\\FUNewsManagement_CoreAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63787D04-DEB0-4FE3-B3BB-DB6F82C933DF}|FUNewsManagement_CoreAPI.csproj|d:\\phuong anh\\prn232_a2\\prn232_a2\\funewsmanagement_coreapi\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63787D04-DEB0-4FE3-B3BB-DB6F82C933DF}|FUNewsManagement_CoreAPI.csproj|solutionrelative:controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63787D04-DEB0-4FE3-B3BB-DB6F82C933DF}|FUNewsManagement_CoreAPI.csproj|d:\\phuong anh\\prn232_a2\\prn232_a2\\funewsmanagement_coreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63787D04-DEB0-4FE3-B3BB-DB6F82C933DF}|FUNewsManagement_CoreAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63787D04-DEB0-4FE3-B3BB-DB6F82C933DF}|FUNewsManagement_CoreAPI.csproj|d:\\phuong anh\\prn232_a2\\prn232_a2\\funewsmanagement_coreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{63787D04-DEB0-4FE3-B3BB-DB6F82C933DF}|FUNewsManagement_CoreAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63787D04-DEB0-4FE3-B3BB-DB6F82C933DF}|FUNewsManagement_CoreAPI.csproj|d:\\phuong anh\\prn232_a2\\prn232_a2\\funewsmanagement_coreapi\\dtos\\newsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63787D04-DEB0-4FE3-B3BB-DB6F82C933DF}|FUNewsManagement_CoreAPI.csproj|solutionrelative:dtos\\newsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63787D04-DEB0-4FE3-B3BB-DB6F82C933DF}|FUNewsManagement_CoreAPI.csproj|d:\\phuong anh\\prn232_a2\\prn232_a2\\funewsmanagement_coreapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63787D04-DEB0-4FE3-B3BB-DB6F82C933DF}|FUNewsManagement_CoreAPI.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63787D04-DEB0-4FE3-B3BB-DB6F82C933DF}|FUNewsManagement_CoreAPI.csproj|d:\\phuong anh\\prn232_a2\\prn232_a2\\funewsmanagement_coreapi\\dtos\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63787D04-DEB0-4FE3-B3BB-DB6F82C933DF}|FUNewsManagement_CoreAPI.csproj|solutionrelative:dtos\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63787D04-DEB0-4FE3-B3BB-DB6F82C933DF}|FUNewsManagement_CoreAPI.csproj|d:\\phuong anh\\prn232_a2\\prn232_a2\\funewsmanagement_coreapi\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63787D04-DEB0-4FE3-B3BB-DB6F82C933DF}|FUNewsManagement_CoreAPI.csproj|solutionrelative:controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63787D04-DEB0-4FE3-B3BB-DB6F82C933DF}|FUNewsManagement_CoreAPI.csproj|d:\\phuong anh\\prn232_a2\\prn232_a2\\funewsmanagement_coreapi\\dtos\\tagdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63787D04-DEB0-4FE3-B3BB-DB6F82C933DF}|FUNewsManagement_CoreAPI.csproj|solutionrelative:dtos\\tagdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63787D04-DEB0-4FE3-B3BB-DB6F82C933DF}|FUNewsManagement_CoreAPI.csproj|d:\\phuong anh\\prn232_a2\\prn232_a2\\funewsmanagement_coreapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63787D04-DEB0-4FE3-B3BB-DB6F82C933DF}|FUNewsManagement_CoreAPI.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63787D04-DEB0-4FE3-B3BB-DB6F82C933DF}|FUNewsManagement_CoreAPI.csproj|d:\\phuong anh\\prn232_a2\\prn232_a2\\funewsmanagement_coreapi\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63787D04-DEB0-4FE3-B3BB-DB6F82C933DF}|FUNewsManagement_CoreAPI.csproj|solutionrelative:dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63787D04-DEB0-4FE3-B3BB-DB6F82C933DF}|FUNewsManagement_CoreAPI.csproj|d:\\phuong anh\\prn232_a2\\prn232_a2\\funewsmanagement_coreapi\\models\\funewsmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63787D04-DEB0-4FE3-B3BB-DB6F82C933DF}|FUNewsManagement_CoreAPI.csproj|solutionrelative:models\\funewsmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63787D04-DEB0-4FE3-B3BB-DB6F82C933DF}|FUNewsManagement_CoreAPI.csproj|d:\\phuong anh\\prn232_a2\\prn232_a2\\funewsmanagement_coreapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63787D04-DEB0-4FE3-B3BB-DB6F82C933DF}|FUNewsManagement_CoreAPI.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:27:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:29:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "D:\\PHUONG ANH\\PRN232_A2\\PRN232_A2\\FUNewsManagement_CoreAPI\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NewsController.cs",
+              "ToolTip": "D:\\PHUONG ANH\\PRN232_A2\\PRN232_A2\\FUNewsManagement_CoreAPI\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "Controllers\\NewsController.cs",
+              "ViewState": "AgIAAPsAAAAAAAAAAAAAAP0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T06:49:36.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountDto.cs",
+              "DocumentMoniker": "D:\\PHUONG ANH\\PRN232_A2\\PRN232_A2\\FUNewsManagement_CoreAPI\\DTOs\\AccountDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\AccountDto.cs",
+              "ToolTip": "D:\\PHUONG ANH\\PRN232_A2\\PRN232_A2\\FUNewsManagement_CoreAPI\\DTOs\\AccountDto.cs",
+              "RelativeToolTip": "DTOs\\AccountDto.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAxwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T06:45:03.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PHUONG ANH\\PRN232_A2\\PRN232_A2\\FUNewsManagement_CoreAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\PHUONG ANH\\PRN232_A2\\PRN232_A2\\FUNewsManagement_CoreAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB8AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T04:39:03.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PHUONG ANH\\PRN232_A2\\PRN232_A2\\FUNewsManagement_CoreAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\PHUONG ANH\\PRN232_A2\\PRN232_A2\\FUNewsManagement_CoreAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-01T04:28:49.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\PHUONG ANH\\PRN232_A2\\PRN232_A2\\FUNewsManagement_CoreAPI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "D:\\PHUONG ANH\\PRN232_A2\\PRN232_A2\\FUNewsManagement_CoreAPI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T06:46:01.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewsDto.cs",
+              "DocumentMoniker": "D:\\PHUONG ANH\\PRN232_A2\\PRN232_A2\\FUNewsManagement_CoreAPI\\DTOs\\NewsDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\NewsDto.cs",
+              "ToolTip": "D:\\PHUONG ANH\\PRN232_A2\\PRN232_A2\\FUNewsManagement_CoreAPI\\DTOs\\NewsDto.cs",
+              "RelativeToolTip": "DTOs\\NewsDto.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAYwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T06:48:59.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TagController.cs",
+              "DocumentMoniker": "D:\\PHUONG ANH\\PRN232_A2\\PRN232_A2\\FUNewsManagement_CoreAPI\\Controllers\\TagController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TagController.cs",
+              "ToolTip": "D:\\PHUONG ANH\\PRN232_A2\\PRN232_A2\\FUNewsManagement_CoreAPI\\Controllers\\TagController.cs",
+              "RelativeToolTip": "Controllers\\TagController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAwG4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T06:36:48.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TagDto.cs",
+              "DocumentMoniker": "D:\\PHUONG ANH\\PRN232_A2\\PRN232_A2\\FUNewsManagement_CoreAPI\\DTOs\\TagDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\TagDto.cs",
+              "ToolTip": "D:\\PHUONG ANH\\PRN232_A2\\PRN232_A2\\FUNewsManagement_CoreAPI\\DTOs\\TagDto.cs",
+              "RelativeToolTip": "DTOs\\TagDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T06:36:05.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\PHUONG ANH\\PRN232_A2\\PRN232_A2\\FUNewsManagement_CoreAPI\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\PHUONG ANH\\PRN232_A2\\PRN232_A2\\FUNewsManagement_CoreAPI\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAwGoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T05:49:12.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "D:\\PHUONG ANH\\PRN232_A2\\PRN232_A2\\FUNewsManagement_CoreAPI\\DTOs\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CategoryDto.cs",
+              "ToolTip": "D:\\PHUONG ANH\\PRN232_A2\\PRN232_A2\\FUNewsManagement_CoreAPI\\DTOs\\CategoryDto.cs",
+              "RelativeToolTip": "DTOs\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T04:42:59.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\PHUONG ANH\\PRN232_A2\\PRN232_A2\\FUNewsManagement_CoreAPI\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "D:\\PHUONG ANH\\PRN232_A2\\PRN232_A2\\FUNewsManagement_CoreAPI\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T04:38:57.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FUNewsManagementContext.cs",
+              "DocumentMoniker": "D:\\PHUONG ANH\\PRN232_A2\\PRN232_A2\\FUNewsManagement_CoreAPI\\Models\\FUNewsManagementContext.cs",
+              "RelativeDocumentMoniker": "Models\\FUNewsManagementContext.cs",
+              "ToolTip": "D:\\PHUONG ANH\\PRN232_A2\\PRN232_A2\\FUNewsManagement_CoreAPI\\Models\\FUNewsManagementContext.cs",
+              "RelativeToolTip": "Models\\FUNewsManagementContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T04:36:21.032Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 806,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
